@@ -84,13 +84,12 @@ int main() {
     //COPIED: calling the matrix multiply function.
     multiplyMatrix(matrix1, matrix2, resultMatrix);
     //COPIED: presentation of matrix output......
-    printf("%s", MATRIXEX);
-    printf("Matrix 1:\n");
-    printMatrix(matrix1);
 
-    printf("%s", MATRIXEX);
-    printf("\nMatrix 2:\n");
-    printMatrix(matrix2);
+
+
+
+
+
 
     printf("%s", MATRIXEX);
     printf("\nResult Matrix:\n");
